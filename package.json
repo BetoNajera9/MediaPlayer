@@ -1,0 +1,21 @@
+{
+	"name": "professionaljs",
+	"version": "1.0.0",
+	"description": "The purpose of this project is learn Professional Js",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html"
+	},
+	"keywords": [
+		"TypeScript"
+	],
+	"author": "BetoNajera",
+	"license": "MIT",
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4",
+		"typescript": "^3.9.7"
+	},
+	"browsersList": [
+		"last 1 chrome version"
+	]
+}
